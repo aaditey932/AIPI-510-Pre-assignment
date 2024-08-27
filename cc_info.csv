@@ -1,4 +1,4 @@
-"credit_card","city","state","zipcode","credit_card_limit"
+credit_card,city,state,zipcode,credit_card_limit
 1280981422329509,"Dallas","PA","18612",6000
 9737219864179988,"Houston","PA","15342",16000
 4749889059323202,"Auburn","MA","01501",14000
