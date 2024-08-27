@@ -47,7 +47,7 @@ This project includes a Python script and unit tests for sorting CSV files. The 
 
    The sorted data will be saved in the file 'sorted_cc_info.csv'.
 
-## Installation
+## Testing
 
 1. Run Unit Tests:
 
