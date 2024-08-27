@@ -22,21 +22,25 @@ This project includes a Python script and unit tests for sorting CSV files. The 
 
 2. Navigate to the project directory:
 
+   ```bash
    cd <project-directory>
 
 3. Create and activate a virtual environment:
 
+   ```bash
    python -m venv .venv
    source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
 
 5. Install the required packages:
 
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
 
 1. Run the Sorting Script:
 
+   ```bash
    python main.py cc_info.csv
 
 2. View the Output:
@@ -47,6 +51,7 @@ This project includes a Python script and unit tests for sorting CSV files. The 
 
 1. Run Unit Tests:
 
+   ```bash
    python -m unittest test_main.py
 
    This will execute the tests and provide output indicating whether the tests passed or failed.
