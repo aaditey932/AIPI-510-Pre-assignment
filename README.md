@@ -51,7 +51,8 @@ This project includes a Python script and unit tests for sorting CSV files. The 
 
 1. Run Unit Tests:
 
-   ```bash
-   python -m unittest test_main.py'''
-   
    This will execute the tests and provide output indicating whether the tests passed or failed.
+   ```bash
+   python -m unittest test_main.py
+   
+   
